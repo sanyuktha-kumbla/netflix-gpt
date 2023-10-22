@@ -1,5 +1,7 @@
 create react app
 configured tailwindcss
+login form
+sign-up form
 
 #Feautures
 -Login/SIgnup
